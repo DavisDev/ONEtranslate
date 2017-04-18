@@ -1,4 +1,5 @@
-# ONEtranslate
+# ONEtranslate [![Github latest downloads](https://img.shields.io/github/downloads/DavisDev/ONEtranslate/total.svg)](https://github.com/DavisDev/ONEtranslate/releases/latest)
+
 Text translator for Play Station Vita.
 
 -![header](shot_1.jpg)
